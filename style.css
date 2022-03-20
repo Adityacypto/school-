@@ -1,0 +1,15 @@
+body{
+   background-image: linear-gradient(red, orange,); 
+}
+
+.menu {
+   font-family: sans-serif;
+   position: fixed;
+   margin-top: 0px;
+   top: 0px;
+   z-index: 10;
+   cursor: pointer;
+   width: 100%;
+   background: rgb(0, 0, 0);
+   color: white;
+}
